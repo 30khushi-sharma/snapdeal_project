@@ -1,0 +1,7 @@
+Questions:-
+1. You want to show how discount varies with price range (two continuous variables). Which visual would best show the relationship: histogram, scatter plot, line chart, or heatmap? Explain why.
+2. In a table visual showing Product Name, Price, Discount, Rating, how would you apply conditional formatting so that: Discounts above 50% appear in green Discounts below 10% appear in red Ratings below 3 are highlighted in orange
+3. You want to compare Average Price vs Average Rating per Subcategory. Which chart type would you use (column + line combo, scatterplot, etc.) and why? How would you interpret if expensive categories have lower ratings?
+4. From the dataset, suppose you find that higher discounts don’t necessarily lead to higher ratings. How would you prove or disprove this in Power BI using measures/visualizations?
+5. Assume you added a column Scraping Date. How would you create a visualization in Power BI to track average discount trend over time? Which chart type would you choose and why?
+6. If your KPI card shows: Average Price = ₹950 Average Discount = 40% Average Rating = 3.8 ⭐ How would you interpret these results from a business perspective? What insights can an e-commerce manager take?
